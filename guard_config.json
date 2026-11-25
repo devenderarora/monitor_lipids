@@ -3,7 +3,7 @@
   "kill_message": "Something went wrong",
   "features": {
     "annotation_engine": true,
-    "ontology_dashboard": false,
+    "ontology_dashboard": true,
     "pca_explorer": true,
     "ai_copilot": true,
     "spatial_lipidomics": true,
