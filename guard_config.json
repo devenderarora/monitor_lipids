@@ -1,6 +1,16 @@
 {
   "app_enabled": true,
   "kill_message": "Something went wrong",
+  "blocked_macs": [
+    "00:00:00:00:00:00"
+  ],
+  "allowed_macs": [],
+  "device_overrides": {
+    "EXAMPLE_MAC_OR_DEVICE_ID": {
+      "app_enabled": true,
+      "spatial_lipidomics": true
+    }
+  },
   "features": {
     "annotation_engine": true,
     "ontology_dashboard": true,
